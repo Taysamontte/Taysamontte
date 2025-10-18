@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="COLE_AQUI_O_LINK_DA_IMAGEM" alt="Thaysa Monteiro — Data & Insights" width="800"/>
+  <img src="ChatGPT Image 18 de out. de 2025, 13_44_52.png" alt="Thaysa Monteiro — Data & Insights" width="800"/>
 </p>
 
 ---
