@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="ChatGPT Image 18 de out. de 2025, 13_44_52.png" alt="Thaysa Monteiro — Data & Insights" width="800"/>
+  <img src="ChatGPT Image 18 de out. de 2025, 13_44_52.png" alt="Thaysa Monteiro — Data & Insights" width="700"/>
 </p>
 
 ---
 
-## 👋 Oi, eu sou a Thaysa Monteiro!
+## 👋 Oi Dev, Meu nome é Thaysa Monteiro!
 🎓 Sou uma Engenheira da Computação apaixonada por Dados e por transformar informação em insights valiosos.  
 📊 Atualmente focada em **Análise de Dados**, mas sempre explorando também o mundo do **Desenvolvimento Web**.  
 🚀 Busco aprender constantemente novas tecnologias e aprimorar minhas habilidades para crescer na área de tecnologia e inovação.
